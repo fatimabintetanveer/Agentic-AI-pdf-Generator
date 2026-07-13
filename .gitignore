@@ -16,9 +16,6 @@ __pycache__/
 *.pyc
 *.pyo
 
-# Output files
-output/
-*.pdf
 
 # Distribution / packaging
 dist/
